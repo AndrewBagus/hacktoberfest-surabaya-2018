@@ -2,4 +2,4 @@
 
 * name : 'AndrewBagus'
 * github : 'gihub.com/AndrewBagus'
-* email : 'bagus.andrew@gmail.com'
+* email : 'bagus.andrew@gmail.com'git
